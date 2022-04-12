@@ -1,0 +1,72 @@
+.form_comment
+{
+    display: flex;
+}
+.button_comment
+{
+    width: 20%; 
+    height: 52px;
+}
+.textarea_comment
+{
+    width: 100%; 
+    border-radius: 5px;
+}
+.tooltip_likedislike
+{
+    padding-left: 8px; 
+    cursor: auto;
+}
+.comment_reply
+{
+    width: 80%;
+    margin-left: 40px;
+}
+.view_reply
+{
+    font-size: "14px";
+    margin: 0;
+    color: gray ;
+}
+.container
+{
+    display: flex; 
+    margin-top: 1rem;
+    padding: 0 2rem; 
+}
+.container_box
+{
+    width: 40%; 
+    margin-right: 1rem; 
+    position: relative;
+}
+.container_box_duration
+{
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    margin: 4px;
+    color: #fff;
+    background-color: rgba(17, 17, 17, 0.8);
+    opacity: 0.8;
+    padding: 2px 4px;
+    border-radius: 2px;
+    letter-spacing: 0.5px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 12px;
+}
+.title_video
+{
+    font-size: 1rem;
+    color: black;
+}
+.button_sub
+{
+    border-radius: 4px; 
+    color: white;
+    padding: 10px 16px; 
+    font-weight: 500; 
+    font-size: 1rem; 
+    text-transform: uppercase;
+}

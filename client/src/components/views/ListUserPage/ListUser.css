@@ -1,0 +1,19 @@
+.label_user
+{
+    text-align:center;
+    margin: 2rem 0;
+}
+
+.search_user
+{
+    width: 500px;
+    padding-left: 50px;
+    float: left;
+}
+.button_user
+{
+    float: right; 
+    color: green; 
+    background:orange;
+  
+}

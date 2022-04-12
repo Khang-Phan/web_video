@@ -1,0 +1,8 @@
+.form_error_login
+{
+    color: #ff0000bf;
+    font-size: 0.7rem;
+    border: 1px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}

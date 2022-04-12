@@ -1,0 +1,59 @@
+.container_myvideo
+{
+    flex: 0.85; 
+    margin-left: -200px;
+}
+
+.layout_myvideo
+{
+    margin-left: 20%; 
+    margin-top: 3%;
+}
+
+.box_myvideo
+{
+    display: flex;
+    margin-left: 10px;
+    height: 100px;
+    width: 150%;
+}
+
+.side_myvideo
+{
+    display: flex;
+    flex-direction: column;
+    text-indent: 50px;
+}
+.sub_myvideo
+{
+    color: #8b8b8b;
+    font-size: 15px;
+}
+
+.duration
+{
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    margin: 4px;
+    color: #fff;
+    background-color: rgba(17, 17, 17, 0.8);
+    opacity: 0.8;
+    padding: 2px 4px;
+    border-radius: 2px;
+    letter-spacing: 0.5px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 12px;
+}
+.container_myvideo_2
+{
+    max-width: 700px;
+    margin: 2rem auto;
+}
+
+.title_myvideo_2
+{
+    text-align: center; 
+    margin: 2rem 0;
+}

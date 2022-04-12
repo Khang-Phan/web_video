@@ -1,0 +1,30 @@
+.container_listvideo
+{
+    max-width: 700px;
+    margin: 2rem auto;
+}
+.title_listvideo
+{
+    text-align: center; 
+    margin: 2rem 0;
+}
+.box_listvideo
+{
+    display: flex; 
+    justify-content: space-between;
+}
+.dropzone
+{
+    width: 300px;
+    height: 240px;
+    border: 1px solid lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search
+{
+    width: 500px;
+    padding-left: 50px;
+}

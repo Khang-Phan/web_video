@@ -1,0 +1,32 @@
+.layout_review
+{
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.container_review
+{
+    display: flex;
+    justify-content: center;
+}
+
+.label_review
+{
+    text-align: center;
+    margin: auto;
+}
+.chart_review
+{
+    text-indent: 50px;
+    background: "" ;
+}
